@@ -1,0 +1,2 @@
+[08-Apr-2020 05:20:12 UTC] PHP Fatal error:  Cannot use Cake\Event\Event as Event because the name is already in use in /home/elitefeats/dev.elitefeats.eu/admin/my_app_name/src/Controller/AppController.php on line 19
+[20-Jul-2020 10:55:55 UTC] PHP Fatal error:  Cannot use [] for reading in /home/elitefeats/dev.elitefeats.eu/my_app_name/src/Controller/AssessmentController.php on line 42
